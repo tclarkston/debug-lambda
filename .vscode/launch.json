@@ -13,7 +13,7 @@
             "host": "localhost",
             "pathMappings": [
                 {
-                    "localRoot": "${workspaceFolder}/hello_world",
+                    "localRoot": "${workspaceFolder}/dynamo_db",
                     "remoteRoot": "."
                 }
             ]
